@@ -1,7 +1,7 @@
-#Antoine Cordier | Arjoon
+# Antoine Cordier | Arjoon
 ## Projet PPE CFA Insta 2017
 
-###Histoire:
+### Histoire:
 
 Air France souhaite équiper c’est nouveau avions nouvellement acheté d’un soft permettant
 d’améliorer le contenue en vols pour ces clients fait une appel d’offre selon certain critère:
