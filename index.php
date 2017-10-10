@@ -24,7 +24,16 @@
     <!-- font-awesome -->
     <link rel="stylesheet" href="lib/font-awesome/css/font-awesome.min.css">
 </head>
+
+<?php
+require_once "function/src/Controller.php";
+?>
+
 <body>
+<?php
+    $controller = new Controller();
+    $controller->Univers();
+?>
 
 </body>
 </html>
